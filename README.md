@@ -24,14 +24,24 @@
 
 ---
 
+<br />
 
+---
 
-HACKATHONS & PROJECTS
-nwHacks 2026 — First Place Overall
-Built a low-latency real-time video analytics pipeline for automated athletic form correction using OpenCV, C++, and WebSockets. Optimized inference times down to sub-15ms for mobile live streaming.
+<div>
+  <br>
+    HACKATHONS & PROJECTS
 
-StormHacks 2025 — Runner-Up & Fan Favorite
+</div>
+<div>
+  ### SpeedTon 2025 - Runner-Up & Fan Favorite
 Developed a distributed task-queue engine in Go designed to handle asynchronous high-volume API requests with automated fallback and dynamic load balancing across cluster nodes.
+
+
+<br>
+
+</div>
+
 
 <div>
 ### HACKATHONS & PROJECTS
